@@ -1,0 +1,13 @@
+html,body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.frame{
+    border: 1px solid red;
+    flex-direction: column;
+    display: flex;
+    align-content: center;
+    padding: auto;
+    height: 50vh;
+    width: 50vh;
+}
